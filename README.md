@@ -11,6 +11,6 @@ Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web, au
 ---
 
 ## 📫 Onde me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/amanda-alves-b8481b362/)  
-- [Portfólio](https://seuportfolio.dev) *(em construção!)*  
+- [LinkedIn](https://www.linkedin.com/in/amanda-alves-24dvv)
+- [Portfólio](https://amandaalvesz.github.io/Portfolio-AmandaAlves/) 
 - Email: crisamandaalves.24@gmail.com
