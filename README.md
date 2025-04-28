@@ -1,34 +1,12 @@
 # Olá! 👋 Eu sou Amanda Alves, seja bem vindo ao meu perfil!!
 
-## 🚀 Sobre mim
-- Sou apaixonada por tecnologia e inovação, com sólidos conhecimentos em **Front-end** e **Back-end**.
-- Estudo e pratico diariamente para aprimorar minhas habilidades em desenvolvimento e análise de dados.
+Sou desenvolvedora Full Stack em formação, com foco em desenvolvimento web, automações e análise de dados. Estudando Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia e inovação.
 
-## 💻 Tecnologias que domino:
+🛣️ Front-End: HTML5 | CSS3 | JavaScript | Figma
 
-### Front-end:
-- HTML5 | CSS3 | JavaScript
-- Desenvolvimento de páginas responsivas e interativas.
+⚙️ Back-End: Python | JavaScript | SQL | PostgreSQL | APIs REST | Integrações com Google APIs
 
-### Back-end:
-- Python
-- JavaScript (Node.js)
-- SQL | PostgreSQL
-
-### APIs e Ferramentas:
-- APIs do Google (Drive, Sheets, Application Services)
-- Integração de dados e automação de processos.
-
-### Análise de Dados:
-- Power BI
-- Tableau
-- SQL para consultas e relatórios
-- Excel avançado
-- Python (automação de proceessos e analise de dados)
-
-## 📈 O que estou buscando:
-- Trabalhar em projetos reais e colaborar com equipes de tecnologia.
-- Oportunidades como **desenvolvedora júnior** ou **analista de dados/BI**.
+📊 Dados & Automação: Power BI | Tableau | SQL | Excel Avançado | Automatizações de processos
 
 ---
 
